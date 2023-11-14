@@ -1,4 +1,4 @@
-#CODE LOCATED IN DEEP-LEARNING FILE
+#CODE LOCATED IN DEEP-LEARNING FILE IN "deep-learning-code"
 # deep-learning-challenge
 For this part of the assignment, you’ll write a report on the performance of the deep learning model you created for Alphabet Soup.
 
